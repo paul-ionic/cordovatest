@@ -1,7 +1,8 @@
 {
   "name": "cordovatest",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }
